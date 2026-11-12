@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.0",
-  "url": "https://github.com/tdouez/UTL/UTL_v1.0.0.bin",
-  "info": "UTL V1.0.0"
+  "version": "v1.2.0",
+  "url": "https://fumeebleue.fr/firmware/utl/UTL_v1.2.0.bin",
+  "info": "Notes de version : Correctif de stabilité du WebSocket, ajout de la progression OTA et ajout du MQTT/HA. Ajout talon consommation et personnalisation nom module."
 }
